@@ -1,1 +1,1 @@
-It is a To-Do List app, where we can list out things we want to do later.
+It is a To-Do List, where we can list out things we want to do later.
